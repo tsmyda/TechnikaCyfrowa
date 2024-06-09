@@ -17,3 +17,5 @@ solution = minimalizer.solve()
 
 print(solution.printN(xnames = ["F1","F2","D1","D2","B0","B1","B2"],
                       ynames = ["F1'","F2'","D1'","D2'","B0'","B1'","B2'"]))
+                      
+                      
